@@ -14,37 +14,38 @@ const Footer = () => {
             velit imperdiet dolor tempor tristique. Pellentesque habitant.
           </p>
           <div className="social-icons">
-            <a href="#"><i className="fab fa-facebook-f"></i></a>
-            <a href="#"><i className="fab fa-instagram"></i></a>
-            <a href="#"><i className="fab fa-twitter"></i></a>
-            <a href="#"><i className="fab fa-linkedin-in"></i></a>
+            <i className= "fab fa-facebook-f" />
+            <i className= "fab fa-instagram" />
+            <i className= "fab fa-twitter" />
+            <i className= "fab fa-linkedin-in" />
           </div>
+
         </div>
         <div className="footer-section useful-links">
           <h3>Useful Links</h3>
           <ul>
-            <li><a href="#">Man</a></li>
-            <li><a href="#">Woman</a></li>
-            <li><a href="#">Accessories</a></li>
-            <li><a href="#">Makeup</a></li>
+            <li>Man</li>
+            <li>Woman</li>
+            <li>Accessories</li>
+            <li>Makeup</li>
           </ul>
         </div>
         <div className="footer-section about-links">
           <h3>About</h3>
           <ul>
-            <li><a href="#">Shop</a></li>
-            <li><a href="#">Product</a></li>
-            <li><a href="#">Location</a></li>
-            <li><a href="#">Contact</a></li>
+            <li>Shop</li>
+            <li>Product</li>
+            <li>Location</li>
+            <li>Contact</li>
           </ul>
         </div>
         <div className="footer-section terms-service">
           <h3>Terms & Service</h3>
           <ul>
-            <li><a href="#">Security</a></li>
-            <li><a href="#">Help</a></li>
-            <li><a href="#">FAQ</a></li>
-            <li><a href="#">Principles</a></li>
+            <li>Security</li>
+            <li>Help</li>
+            <li>FAQ</li>
+            <li>Principles</li>
           </ul>
         </div>
       </div>
