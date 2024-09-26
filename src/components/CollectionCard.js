@@ -8,7 +8,7 @@ function SomeComponent() {
     <div>
         <h1 className='center-align'>New Collection of Chicity</h1>
       <CollectionCard
-    imageSrc={WomanImg}
+    imageSrc={WomanImg }
         title="Women's Hot Collection"
         description="Lorem ipsum dolor sit amet consectetur. Nisi imperdiet at tellus sed vel neque sapien.Iorum ipsu AcLorem ipsum dolor sit amet consectetur. Nisi imperdiet at tellus sed vel neque sapien. Lorum ipsum Ac"
       />

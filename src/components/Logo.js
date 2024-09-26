@@ -7,11 +7,12 @@ import image4 from '../Assets/huffpost.png';
 const ImageContainer = () => {
   return (
     <div className="image-container-btm">
-      <img src={image1} style={{marginLeft:'10px'  }} />
-      <img src={image2} />
-      <img src={image3} />
-      <img src={image4} />
+      <img src={image1} style={{marginLeft:'10px'  }} alt = 'Amazing collection' />
+      <img src={image2}  alt = 'Amazing collection' />
+      <img src={image3} alt = 'Amazing collection' />
+      <img src={image4} alt = 'Amazing collection' />
     </div>
+
   );
 };
 
