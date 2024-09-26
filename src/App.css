@@ -121,6 +121,11 @@
     margin-right: 50px;
   }
 
+  .hero-image {
+    width: 500;
+    height: 500;
+  }
+
   .feature-list {
     display: flex;
     justify-content: space-between;
@@ -462,6 +467,7 @@
   .hero-title {
     font-size: 2rem;
     margin-left: 0;
+    text-align: center;
   }
 
   .hero-description {
@@ -525,5 +531,14 @@
   .footer-section {
     width: 100%;
     margin-bottom: 20px;
+    text-align: center;
+  }
+
+  h3 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
   }
 }
